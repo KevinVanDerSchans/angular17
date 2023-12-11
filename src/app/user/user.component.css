@@ -1,0 +1,44 @@
+section {
+  max-width: 500px;
+  margin: 0 auto;
+  padding: 40px 0;
+  font-size: 24px;
+}
+
+p {
+  text-align: center;
+  font-weight: 700;
+}
+
+div {
+  display: flex;
+  width: 100%;
+  justify-content: center;
+  padding-bottom: 48px;
+}
+
+button {
+  padding: 12px 14px;
+  border-radius: 8px;
+  font-family: inherit;
+  font-weight: 600;
+  cursor: pointer;
+  text-align: center;
+  outline: none;
+  border: none;
+}
+
+button:hover {
+  background-color: #09f;
+  outline: none;
+}
+
+img {
+ width: 64px;
+ height: 64px;
+ border-radius: 50%;
+}
+
+.favGame {
+  color: green;
+}
